@@ -1,0 +1,23 @@
+.contenedor1{
+	background-color: #404040;
+	height: 120px;
+}
+.list{
+	text-decoration: none;
+	color:white;
+	float: left;
+	margin-left: 45px;
+	margin-top: 30px;
+	padding-top: 12px;
+}
+.logo{
+	height: 90px; 
+	width: 100px;
+	margin-left: 12px;
+	margin-top: 10px;
+}
+.last {
+	padding-left: 15px;
+	padding-top: 12px;
+	text-decoration: none;
+}
